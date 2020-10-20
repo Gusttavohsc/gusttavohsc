@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my online portifolio, due I have a few free time, I problably will finish it until january
-- 🌱 I’m currently learning Front-end
+🔭 I’m currently working on my online portifolio, due I have a few free time, I problably will finish it until january
+🌱 I’m currently learning Front-end
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
