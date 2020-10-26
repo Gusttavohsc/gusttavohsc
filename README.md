@@ -8,6 +8,14 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Week: 18 October, 2020 - 25 October, 2020
+
+CSS     4 hrs 39 mins   ████████████████▒░░░░░░░░   65.65 % 
+HTML    1 hr 22 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Other   59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+PHP     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+```
 <!--END_SECTION:waka-->
 
 
