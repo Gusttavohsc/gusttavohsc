@@ -7,6 +7,10 @@
 ✉ Any further questions, feel free contact me: <a href="mailto:contato@gustavocruz.dev.br"> 📩 </a>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 **Front-end Level actualy**
 
 |HTML|CSS|JS|
@@ -14,7 +18,7 @@
 |🟨 |🟧 |🟥| 
 
 
-- [x] Test
+
 
 
 <!--
