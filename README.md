@@ -9,11 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2020 - 28 October, 2020
+Week: 22 October, 2020 - 29 October, 2020
 
-CSS     2 hrs 19 mins   ██████████████▓░░░░░░░░░░   58.27 % 
-Other   59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 % 
-HTML    39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 % 
+CSS    3 mins          ████████████████████████▓   98.58 % 
 ```
 <!--END_SECTION:waka-->
 
