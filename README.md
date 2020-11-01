@@ -9,9 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 October, 2020 - 30 October, 2020
-
-CSS    3 mins          ████████████████████████▓   98.58 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
