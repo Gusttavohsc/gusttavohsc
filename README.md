@@ -22,7 +22,7 @@ No Activity tracked this Week
 
 |PYTHON|
 |------|
-|🐍|
+|  🐍  |
 
 
 
