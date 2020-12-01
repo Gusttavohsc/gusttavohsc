@@ -18,7 +18,11 @@ No Activity tracked this Week
 
 |HTML|CSS|JS|
 |----|---|--|
-|🟨 |🟧 |🟥| 
+|🟨 |🟧 |🟥|
+
+|PYTHON|
+|------|
+|🐍|
 
 
 
