@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 November, 2020 - 02 December, 2020
+
+Python   19 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
