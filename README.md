@@ -16,9 +16,9 @@ CSS    2 mins          ██▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavohsc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gusttavohsc)](https://github.com/anuraghazra/github-readme-stats)
+[![time tracker](https://wakatime.com/badge/github/Gusttavohsc/gusttavohsc.svg)](https://wakatime.com/badge/github/Gusttavohsc/gusttavohsc)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavohsc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <a href="https://wakatime.com"><img src="https://wakatime.com/share/@gusttavohsc/ac0aff10-528e-4ee7-a951-706173a8130f.png" width="500px"/></a>
 
 <!--
 **Gusttavohsc/gusttavohsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
