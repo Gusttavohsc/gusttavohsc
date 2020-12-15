@@ -9,9 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2020 - 13 December, 2020
+Week: 07 December, 2020 - 14 December, 2020
 
-HTML   15 mins         █████████████████████████   100.00 % 
+HTML   24 mins         ██████████████████████▓░░   90.04 % 
+CSS    2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 <!--END_SECTION:waka-->
 
