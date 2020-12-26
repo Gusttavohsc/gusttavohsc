@@ -9,11 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
-CSS          6 hrs 24 mins   ███████████████▒░░░░░░░░░   61.01 % 
-HTML         3 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   33.11 % 
-JavaScript   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+CSS          4 hrs 10 mins   ██████████████▓░░░░░░░░░░   58.37 % 
+HTML         2 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   33.01 % 
+JavaScript   36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 <!--END_SECTION:waka-->
 
