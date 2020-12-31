@@ -9,10 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2020 - 29 December, 2020
-
-CSS    1 hr 52 mins    █████████████████▒░░░░░░░   69.61 % 
-HTML   48 mins         ███████▓░░░░░░░░░░░░░░░░░   30.39 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
