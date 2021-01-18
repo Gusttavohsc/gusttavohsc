@@ -9,9 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
-
-Ruby   11 mins         ████████████████████████░   95.40 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
