@@ -9,10 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 March, 2021 - 17 March, 2021
+Week: 11 March, 2021 - 18 March, 2021
 
-Java    1 hr 33 mins    ███████████████████████░░   91.88 % 
-HTML    7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Java    1 hr 33 mins    ███████████████████████░░   91.89 % 
+HTML    7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
