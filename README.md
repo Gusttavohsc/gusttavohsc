@@ -9,9 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 March, 2021 - 29 March, 2021
+Week: 23 March, 2021 - 30 March, 2021
 
-PHP     1 hr 14 mins    █████████████████████████   99.34 % 
+PHP     1 hr 53 mins    █████████████████████▒░░░   85.49 % 
+HTML    18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 ```
 <!--END_SECTION:waka-->
 
