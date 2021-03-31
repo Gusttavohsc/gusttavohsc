@@ -2,7 +2,7 @@
 
 ⚡ I’m currently working on my online portifolio, due I have a few free time, I problably will finish it some day in my life
 
-🕔 As I don't work as a dev actualy, I'll update my Git slowly.
+👨🏽‍💻 Actually working as a PHP developer
 
 ✉ Any further questions, feel free contact me: <a href="mailto:contato@gustavocruz.dev.br"> 📩 </a>
 
