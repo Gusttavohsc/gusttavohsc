@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 May, 2021 - 11 May, 2021
+Week: 05 May, 2021 - 12 May, 2021
 
-PHP             12 hrs 49 mins  ████████████████░░░░░░░░░   63.62 % 
-JavaScript      3 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-HTML            2 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-CSS             1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Apache Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+PHP             10 hrs 32 mins  █████████████▓░░░░░░░░░░░   55.20 % 
+JavaScript      3 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 % 
+HTML            3 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+CSS             1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Apache Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
 
