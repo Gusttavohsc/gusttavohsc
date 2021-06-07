@@ -9,11 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 May, 2021 - 05 June, 2021
+Week: 30 May, 2021 - 06 June, 2021
 
-PHP             21 hrs 46 mins  ████████████████████████░   96.22 % 
-HTML            40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JavaScript      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+PHP             22 hrs 19 mins  ███████████████████████░░   91.35 % 
+HTML            1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+JavaScript      9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
 
