@@ -9,11 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
+Week: 05 July, 2021 - 11 July, 2021
 
-PHP          11 hrs 9 mins   ████████████████████████▓   98.54 % 
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+PHP          11 hrs 40 mins  ████████████████████████▓   98.60 % 
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
 
