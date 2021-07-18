@@ -9,9 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2021 - 16 July, 2021
+Week: 11 July, 2021 - 17 July, 2021
 
-PHP      7 hrs 26 mins   █████████████████████████   99.78 % 
+PHP    5 hrs 40 mins   ████████████████████████░   96.66 % 
+Dart   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 <!--END_SECTION:waka-->
 
